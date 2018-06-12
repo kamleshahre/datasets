@@ -1,10 +1,10 @@
 # Table of contents
 
 * [source{d} datasets](README.md)
-* [Public Git Archive](publicgitarchive/README.md)
-  * [pga: Public Git Archive tool](publicgitarchive/pga.md)
-  * [borges-indexer](publicgitarchive/borges-indexer.md)
-  * [multitool](publicgitarchive/multitool.md)
+* [Public Git Archive](PublicGitArchive/README.md)
+  * [pga: Public Git Archive tool](PublicGitArchive/pga.md)
+  * [borges-indexer](PublicGitArchive/borges-indexer.md)
+  * [multitool](PublicGitArchive/multitool.md)
 
 ## OSS Governance
 
